@@ -1,0 +1,30 @@
+C:\Users\Shiro\source\repos\Lab 10\Lab 10\obj\Debug\Lab 10.csprojAssemblyReference.cache
+C:\Users\Shiro\source\repos\Lab 10\Lab 10\obj\Debug\Lab_10.Form1.resources
+C:\Users\Shiro\source\repos\Lab 10\Lab 10\obj\Debug\Lab_10.Properties.Resources.resources
+C:\Users\Shiro\source\repos\Lab 10\Lab 10\obj\Debug\Lab 10.csproj.GenerateResource.cache
+C:\Users\Shiro\source\repos\Lab 10\Lab 10\obj\Debug\Lab 10.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\source\repos\Lab 10\Lab 10\bin\Debug\Lab 10.exe.config
+C:\Users\Shiro\source\repos\Lab 10\Lab 10\bin\Debug\Lab 10.exe
+C:\Users\Shiro\source\repos\Lab 10\Lab 10\bin\Debug\Lab 10.pdb
+C:\Users\Shiro\source\repos\Lab 10\Lab 10\obj\Debug\Lab 10.exe
+C:\Users\Shiro\source\repos\Lab 10\Lab 10\obj\Debug\Lab 10.pdb
+C:\Users\Shiro\Desktop\projects guys\Lab 10\Lab 10\obj\Debug\Lab 10.csprojAssemblyReference.cache
+C:\Users\Shiro\Desktop\projects guys\Lab 10\Lab 10\obj\Debug\Lab_10.Form1.resources
+C:\Users\Shiro\Desktop\projects guys\Lab 10\Lab 10\obj\Debug\Lab_10.Properties.Resources.resources
+C:\Users\Shiro\Desktop\projects guys\Lab 10\Lab 10\obj\Debug\Lab 10.csproj.GenerateResource.cache
+C:\Users\Shiro\Desktop\projects guys\Lab 10\Lab 10\obj\Debug\Lab 10.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Desktop\projects guys\Lab 10\Lab 10\obj\Debug\Lab 10.exe
+C:\Users\Shiro\Desktop\projects guys\Lab 10\Lab 10\obj\Debug\Lab 10.pdb
+C:\Users\Shiro\Desktop\projects guys\Lab 10\Lab 10\bin\Debug\Lab 10.exe.config
+C:\Users\Shiro\Desktop\projects guys\Lab 10\Lab 10\bin\Debug\Lab 10.exe
+C:\Users\Shiro\Desktop\projects guys\Lab 10\Lab 10\bin\Debug\Lab 10.pdb
+C:\Users\Abdelrahman Gamal\OneDrive\Desktop\ksbk\projects guys\Lab 10\Lab 10\bin\Debug\Lab 10.exe.config
+C:\Users\Abdelrahman Gamal\OneDrive\Desktop\ksbk\projects guys\Lab 10\Lab 10\bin\Debug\Lab 10.exe
+C:\Users\Abdelrahman Gamal\OneDrive\Desktop\ksbk\projects guys\Lab 10\Lab 10\bin\Debug\Lab 10.pdb
+C:\Users\Abdelrahman Gamal\OneDrive\Desktop\ksbk\projects guys\Lab 10\Lab 10\obj\Debug\Lab 10.csprojAssemblyReference.cache
+C:\Users\Abdelrahman Gamal\OneDrive\Desktop\ksbk\projects guys\Lab 10\Lab 10\obj\Debug\Lab_10.Form1.resources
+C:\Users\Abdelrahman Gamal\OneDrive\Desktop\ksbk\projects guys\Lab 10\Lab 10\obj\Debug\Lab_10.Properties.Resources.resources
+C:\Users\Abdelrahman Gamal\OneDrive\Desktop\ksbk\projects guys\Lab 10\Lab 10\obj\Debug\Lab 10.csproj.GenerateResource.cache
+C:\Users\Abdelrahman Gamal\OneDrive\Desktop\ksbk\projects guys\Lab 10\Lab 10\obj\Debug\Lab 10.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrahman Gamal\OneDrive\Desktop\ksbk\projects guys\Lab 10\Lab 10\obj\Debug\Lab 10.exe
+C:\Users\Abdelrahman Gamal\OneDrive\Desktop\ksbk\projects guys\Lab 10\Lab 10\obj\Debug\Lab 10.pdb
